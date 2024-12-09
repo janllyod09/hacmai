@@ -16,10 +16,10 @@
 
     <!-- Scripts -->
     @vite(['resources/css/app.css', 'resources/js/app.js'])
-    <script defer src="/build/assets/app-B9GXRaBV.js"></script>
+    <script defer src="assets/app-D-FaURHc.js"></script>
 
     <!-- Styles -->
-    <link rel="stylesheet" href="/build/assets/app-6skvEm6U.css">
+    <link rel="stylesheet" href="assets/app-DGoPAGMe.css">
     @livewireStyles
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.5.0/flowbite.min.css" rel="stylesheet">
